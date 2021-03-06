@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/alex--reed/" > 
     <img align="center" alt="Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
-  <a href="https://leetcode.com/reeda19/">
+  <a href="https://leetcode.com/alexreed100/">
     <img align="center" alt="leetcode" width="30px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" />
   </a>
   <a href="https://github.com/reeda19">
